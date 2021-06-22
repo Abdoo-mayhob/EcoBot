@@ -1,0 +1,728 @@
+{
+    "obj_type": "folder",
+    "name": "start",
+    "father": "None",
+    "properties": {
+        "comment": "\u0623\u064a \u0643\u0644\u064a\u0629\u061f",
+        "num_of_times_called": 0
+    },
+    "sub": {
+        "\u0643\u0644\u064a\u0629 \u0627\u0644\u0625\u0642\u062a\u0635\u0627\u062f": {
+            "obj_type": "folder",
+            "name": "\u0643\u0644\u064a\u0629 \u0627\u0644\u0625\u0642\u062a\u0635\u0627\u062f",
+            "father": "start",
+            "properties": {
+                "comment": "\u0623\u064a \u0633\u0646\u0629 \u061f",
+                "num_of_times_called": 35
+            },
+            "sub": {
+                "\u0633\u0646\u0629 \u0623\u0648\u0644\u0649": {
+                    "obj_type": "folder",
+                    "name": "\u0633\u0646\u0629 \u0623\u0648\u0644\u0649",
+                    "father": "\u0643\u0644\u064a\u0629 \u0627\u0644\u0625\u0642\u062a\u0635\u0627\u062f",
+                    "properties": {
+                        "comment": "\u0623\u064a \u0641\u0635\u0644\u061f",
+                        "num_of_times_called": 29
+                    },
+                    "sub": {
+                        "\u0641\u0635\u0644 \u0623\u0648\u0644": {
+                            "obj_type": "folder",
+                            "name": "\u0641\u0635\u0644 \u0623\u0648\u0644",
+                            "father": "\u0633\u0646\u0629 \u0623\u0648\u0644\u0649",
+                            "properties": {
+                                "comment": "\u0634\u0648 \u0627\u0644\u0645\u0627\u062f\u0629\u061f",
+                                "num_of_times_called": 15
+                            },
+                            "sub": {
+                                "\u0644\u063a\u0629 \u0639\u0631\u0628\u064a\u0629": {
+                                    "obj_type": "folder",
+                                    "name": "\u0644\u063a\u0629 \u0639\u0631\u0628\u064a\u0629",
+                                    "father": "\u0641\u0635\u0644 \u0623\u0648\u0644",
+                                    "properties": {
+                                        "comment": "\u0637\u064a\u0628",
+                                        "num_of_times_called": 3
+                                    },
+                                    "sub": {
+                                        "\u062f\u0648\u0631\u0627\u062a": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u062f\u0648\u0631\u0627\u062a",
+                                            "father": "\u0644\u063a\u0629 \u0639\u0631\u0628\u064a\u0629",
+                                            "properties": {
+                                                "full_name": "1#1#\u0639\u0631\u0628\u064a#\u062f\u0648\u0631\u0627\u062a.pdf",
+                                                "stored_msg_id": 60,
+                                                "comment": null,
+                                                "num_of_times_called": 0,
+                                                "size": 3960514,
+                                                "date": "2021/06/15 - 22:42:03",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        },
+                                        "\u0627\u0644\u0645\u0637\u0644\u0648\u0628 \u0645\u0646 \u0627\u0644\u0643\u062a\u0627\u0628": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u0627\u0644\u0645\u0637\u0644\u0648\u0628 \u0645\u0646 \u0627\u0644\u0643\u062a\u0627\u0628",
+                                            "father": "\u0644\u063a\u0629 \u0639\u0631\u0628\u064a\u0629",
+                                            "properties": {
+                                                "full_name": "1#1#\u0639\u0631\u0628\u064a#\u0627\u0644\u0645\u0637\u0644\u0648\u0628 \u0645\u0646 \u0627\u0644\u0643\u062a\u0627\u0628.jpg",
+                                                "stored_msg_id": 62,
+                                                "comment": null,
+                                                "num_of_times_called": 1,
+                                                "size": 59858,
+                                                "date": "2021/06/15 - 22:42:30",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        },
+                                        "\u062f\u0648\u0631\u0629 \u0645\u0639 \u0627\u0644\u062d\u0644": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u062f\u0648\u0631\u0629 \u0645\u0639 \u0627\u0644\u062d\u0644",
+                                            "father": "\u0644\u063a\u0629 \u0639\u0631\u0628\u064a\u0629",
+                                            "properties": {
+                                                "full_name": "1#1#\u0639\u0631\u0628\u064a#\u062f\u0648\u0631\u0629 \u0645\u0639 \u0627\u0644\u062d\u0644.pdf",
+                                                "stored_msg_id": 64,
+                                                "comment": null,
+                                                "num_of_times_called": 1,
+                                                "size": 1651189,
+                                                "date": "2021/06/15 - 22:44:12",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        },
+                                        "\u0627\u0644\u0623\u062e\u0637\u0627\u0621 \u0627\u0644\u0634\u0627\u0626\u0639\u0629": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u0627\u0644\u0623\u062e\u0637\u0627\u0621 \u0627\u0644\u0634\u0627\u0626\u0639\u0629",
+                                            "father": "\u0644\u063a\u0629 \u0639\u0631\u0628\u064a\u0629",
+                                            "properties": {
+                                                "full_name": "1#1#\u0639\u0631\u0628\u064a#\u0627\u0644\u0623\u062e\u0637\u0627\u0621 \u0627\u0644\u0634\u0627\u0626\u0639\u0629.pdf",
+                                                "stored_msg_id": 66,
+                                                "comment": null,
+                                                "num_of_times_called": 0,
+                                                "size": 3662207,
+                                                "date": "2021/06/16 - 11:51:26",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        },
+                                        "\u0646\u0648\u0637\u0629 \u063a\u0631\u064a\u0646": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u0646\u0648\u0637\u0629 \u063a\u0631\u064a\u0646",
+                                            "father": "\u0644\u063a\u0629 \u0639\u0631\u0628\u064a\u0629",
+                                            "properties": {
+                                                "full_name": "1#1#\u0639\u0631\u0628\u064a#\u0646\u0648\u0637\u0629 \u063a\u0631\u064a\u0646.pdf",
+                                                "stored_msg_id": 68,
+                                                "comment": null,
+                                                "num_of_times_called": 1,
+                                                "size": 13455688,
+                                                "date": "2021/06/16 - 12:10:44",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        }
+                                    }
+                                },
+                                "\u0645\u062f\u062e\u0644 \u0625\u0644\u0649 \u0639\u0644\u0645 \u0627\u0644\u0625\u0642\u062a\u0635\u0627\u062f": {
+                                    "obj_type": "folder",
+                                    "name": "\u0645\u062f\u062e\u0644 \u0625\u0644\u0649 \u0639\u0644\u0645 \u0627\u0644\u0625\u0642\u062a\u0635\u0627\u062f",
+                                    "father": "\u0641\u0635\u0644 \u0623\u0648\u0644",
+                                    "properties": {
+                                        "comment": "\u0625\u062e\u062a\u0631 \u0645\u0644\u0641 ...",
+                                        "num_of_times_called": 0
+                                    },
+                                    "sub": {
+                                        "\u062f\u0648\u0631\u0627\u062a \u0645\u0646 2014 \u0644 2020": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u062f\u0648\u0631\u0627\u062a \u0645\u0646 2014 \u0644 2020",
+                                            "father": "\u0645\u062f\u062e\u0644 \u0625\u0644\u0649 \u0639\u0644\u0645 \u0627\u0644\u0625\u0642\u062a\u0635\u0627\u062f",
+                                            "properties": {
+                                                "full_name": "1.1\u062f\u0648\u0631\u0627\u062a \u0645\u062f\u062e\u0644 \u0645\u0646 2014 \u0625\u0644\u0649 2020 .pdf",
+                                                "stored_msg_id": 50,
+                                                "comment": null,
+                                                "num_of_times_called": 0,
+                                                "size": 4353862,
+                                                "date": "2021/06/15 - 22:08:58",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        }
+                                    }
+                                },
+                                "\u0645\u0647\u0627\u0631\u0627\u062a \u062d\u0627\u0633\u0648\u0628\u064a\u0629": {
+                                    "obj_type": "folder",
+                                    "name": "\u0645\u0647\u0627\u0631\u0627\u062a \u062d\u0627\u0633\u0648\u0628\u064a\u0629",
+                                    "father": "\u0641\u0635\u0644 \u0623\u0648\u0644",
+                                    "properties": {
+                                        "comment": "\u0645\u0627\u0634\u064a",
+                                        "num_of_times_called": 2
+                                    },
+                                    "sub": {
+                                        "\u0627\u0644\u0645\u0642\u0631\u0631": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u0627\u0644\u0645\u0642\u0631\u0631",
+                                            "father": "\u0645\u0647\u0627\u0631\u0627\u062a \u062d\u0627\u0633\u0648\u0628\u064a\u0629",
+                                            "properties": {
+                                                "full_name": "1.1.\u0645\u0647\u0627\u0631\u0627\u062a \u062d\u0627\u0633\u0648\u0628.\u0627\u0644\u0645\u0642\u0631\u0631.pdf",
+                                                "stored_msg_id": 48,
+                                                "comment": null,
+                                                "num_of_times_called": 0,
+                                                "size": 2927280,
+                                                "date": "2021/06/15 - 21:31:02",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        },
+                                        "\u0627\u0644\u0645\u0644\u062e\u0635": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u0627\u0644\u0645\u0644\u062e\u0635",
+                                            "father": "\u0645\u0647\u0627\u0631\u0627\u062a \u062d\u0627\u0633\u0648\u0628\u064a\u0629",
+                                            "properties": {
+                                                "full_name": "1.1.\u0645\u0647\u0627\u0631\u0627\u062a \u062d\u0627\u0633\u0648\u0628.\u0627\u0644\u0645\u0644\u062e\u0635.pdf",
+                                                "stored_msg_id": 54,
+                                                "comment": null,
+                                                "num_of_times_called": 2,
+                                                "size": 14155974,
+                                                "date": "2021/06/15 - 22:30:29",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        }
+                                    }
+                                },
+                                "\u0645\u0628\u0627\u062f\u0626 \u0625\u062f\u0627\u0631\u0629": {
+                                    "obj_type": "folder",
+                                    "name": "\u0645\u0628\u0627\u062f\u0626 \u0625\u062f\u0627\u0631\u0629",
+                                    "father": "\u0641\u0635\u0644 \u0623\u0648\u0644",
+                                    "properties": {
+                                        "comment": "\u0627\u064a \u0645\u0646 \u062f\u0648\u0644\u061f",
+                                        "num_of_times_called": 5
+                                    },
+                                    "sub": {
+                                        "\u0645\u0644\u0641 \u0644\u062a\u062c\u0631\u0628\u0629 \u0627\u0644\u0628\u0648\u062a \ud83d\udcf1": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u0645\u0644\u0641 \u0644\u062a\u062c\u0631\u0628\u0629 \u0627\u0644\u0628\u0648\u062a \ud83d\udcf1",
+                                            "father": "\u0645\u0628\u0627\u062f\u0626 \u0625\u062f\u0627\u0631\u0629",
+                                            "properties": {
+                                                "full_name": "\u0645\u0644\u0641 \u0644\u062a\u062c\u0631\u0628\u0629 \u0627\u0644\u0628\u0648\u062a \ud83d\udcf1.pdf",
+                                                "stored_msg_id": 17,
+                                                "comment": null,
+                                                "num_of_times_called": 3,
+                                                "size": 140514,
+                                                "date": "2021/02/14 - 19:49:11",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        },
+                                        "\u0627\u0644\u0645\u0644\u062e\u0635 \u0643\u0627\u0645\u0644": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u0627\u0644\u0645\u0644\u062e\u0635 \u0643\u0627\u0645\u0644",
+                                            "father": "\u0645\u0628\u0627\u062f\u0626 \u0625\u062f\u0627\u0631\u0629",
+                                            "properties": {
+                                                "full_name": "1#1#\u0645\u0628\u0627\u062f\u0626 \u0625\u062f\u0627\u0631\u0629#\u0627\u0644\u0645\u0644\u062e\u0635 \u0643\u0627\u0645\u0644.pdf",
+                                                "stored_msg_id": 70,
+                                                "comment": null,
+                                                "num_of_times_called": 0,
+                                                "size": 5052699,
+                                                "date": "2021/06/16 - 13:28:27",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        },
+                                        "\u062f\u0648\u0631\u0627\u062a \u062f\u0642\u0629 \u062c\u064a\u062f\u0629": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u062f\u0648\u0631\u0627\u062a \u062f\u0642\u0629 \u062c\u064a\u062f\u0629",
+                                            "father": "\u0645\u0628\u0627\u062f\u0626 \u0625\u062f\u0627\u0631\u0629",
+                                            "properties": {
+                                                "full_name": "1#1#\u0645\u0628\u0627\u062f\u0626 \u0625\u062f\u0627\u0631\u0629#\u062f\u0648\u0631\u0627\u062a \u062f\u0642\u0629 \u062c\u064a\u062f\u0629.pdf",
+                                                "stored_msg_id": 72,
+                                                "comment": null,
+                                                "num_of_times_called": 0,
+                                                "size": 3147440,
+                                                "date": "2021/06/16 - 13:30:53",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        },
+                                        "\u062f\u0648\u0631\u0627\u062a 3": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u062f\u0648\u0631\u0627\u062a 3",
+                                            "father": "\u0645\u0628\u0627\u062f\u0626 \u0625\u062f\u0627\u0631\u0629",
+                                            "properties": {
+                                                "full_name": "1#1#\u0645\u0628\u0627\u062f\u0626 \u0625\u062f\u0627\u0631\u0629#\u062f\u0648\u0631\u0627\u062a3.pdf",
+                                                "stored_msg_id": 74,
+                                                "comment": null,
+                                                "num_of_times_called": 0,
+                                                "size": 3817648,
+                                                "date": "2021/06/16 - 13:35:35",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        },
+                                        "\u062f\u0648\u0631\u0627\u062a 2": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u062f\u0648\u0631\u0627\u062a 2",
+                                            "father": "\u0645\u0628\u0627\u062f\u0626 \u0625\u062f\u0627\u0631\u0629",
+                                            "properties": {
+                                                "full_name": "1#1#\u0645\u0628\u0627\u062f\u0626 \u0625\u062f\u0627\u0631\u0629#\u062f\u0648\u0631\u0627\u062a2.pdf",
+                                                "stored_msg_id": 76,
+                                                "comment": null,
+                                                "num_of_times_called": 0,
+                                                "size": 4869768,
+                                                "date": "2021/06/16 - 13:39:38",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        },
+                                        "\u062f\u0648\u0631\u0627\u062a 1": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u062f\u0648\u0631\u0627\u062a 1",
+                                            "father": "\u0645\u0628\u0627\u062f\u0626 \u0625\u062f\u0627\u0631\u0629",
+                                            "properties": {
+                                                "full_name": "1#1#\u0645\u0628\u0627\u062f\u0626 \u0625\u062f\u0627\u0631\u0629#\u062f\u0648\u0631\u0627\u062a1.pdf",
+                                                "stored_msg_id": 78,
+                                                "comment": null,
+                                                "num_of_times_called": 1,
+                                                "size": 4106802,
+                                                "date": "2021/06/16 - 13:46:10",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        },
+                                        "\u0627\u0644\u0645\u0642\u0631\u0631": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u0627\u0644\u0645\u0642\u0631\u0631",
+                                            "father": "\u0645\u0628\u0627\u062f\u0626 \u0625\u062f\u0627\u0631\u0629",
+                                            "properties": {
+                                                "full_name": "1#1#\u0645\u0628\u0627\u062f\u0626 \u0625\u062f\u0627\u0631\u0629#\u0627\u0644\u0645\u0642\u0631\u0631.pdf",
+                                                "stored_msg_id": 80,
+                                                "comment": null,
+                                                "num_of_times_called": 0,
+                                                "size": 1522292,
+                                                "date": "2021/06/16 - 13:58:49",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        },
+                                        "\u0623\u0645\u062b\u0644\u0629 \u0645\u0643\u062a\u0628\u0629 \u0633\u0645\u0627": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u0623\u0645\u062b\u0644\u0629 \u0645\u0643\u062a\u0628\u0629 \u0633\u0645\u0627",
+                                            "father": "\u0645\u0628\u0627\u062f\u0626 \u0625\u062f\u0627\u0631\u0629",
+                                            "properties": {
+                                                "full_name": "1#1#\u0645\u0628\u0627\u062f\u0626 \u0625\u062f\u0627\u0631\u0629#\u0623\u0645\u062b\u0644\u0629 \u0645\u0643\u062a\u0628\u0629 \u0633\u0645\u0627.pdf",
+                                                "stored_msg_id": 82,
+                                                "comment": null,
+                                                "num_of_times_called": 0,
+                                                "size": 2292533,
+                                                "date": "2021/06/16 - 14:29:53",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        }
+                                    }
+                                },
+                                "\u0645\u062d\u0627\u0633\u0628\u0629 \u0645\u0627\u0644\u064a\u0629 1": {
+                                    "obj_type": "folder",
+                                    "name": "\u0645\u062d\u0627\u0633\u0628\u0629 \u0645\u0627\u0644\u064a\u0629 1",
+                                    "father": "\u0641\u0635\u0644 \u0623\u0648\u0644",
+                                    "properties": {
+                                        "comment": "\u0627\u064a \u0645\u0646 \u062f\u0647\u061f",
+                                        "num_of_times_called": 6
+                                    },
+                                    "sub": {}
+                                },
+                                "\u0644\u063a\u0629 \u0623\u062c\u0646\u0628\u064a\u0629 1": {
+                                    "obj_type": "folder",
+                                    "name": "\u0644\u063a\u0629 \u0623\u062c\u0646\u0628\u064a\u0629 1",
+                                    "father": "\u0641\u0635\u0644 \u0623\u0648\u0644",
+                                    "properties": {
+                                        "comment": "\u0625\u062e\u062a\u0631 \u0645\u0644\u0641..",
+                                        "num_of_times_called": 0
+                                    },
+                                    "sub": {}
+                                }
+                            }
+                        },
+                        "\u0641\u0635\u0644 \u062b\u0627\u0646\u064a": {
+                            "obj_type": "folder",
+                            "name": "\u0641\u0635\u0644 \u062b\u0627\u0646\u064a",
+                            "father": "\u0633\u0646\u0629 \u0623\u0648\u0644\u0649",
+                            "properties": {
+                                "comment": "\u0634\u0648 \u0627\u0644\u0645\u0627\u062f\u0629\u061f",
+                                "num_of_times_called": 20
+                            },
+                            "sub": {
+                                "\u0644\u063a\u0629 \u0623\u062c\u0646\u0628\u064a\u0629 2": {
+                                    "obj_type": "folder",
+                                    "name": "\u0644\u063a\u0629 \u0623\u062c\u0646\u0628\u064a\u0629 2",
+                                    "father": "\u0641\u0635\u0644 \u062b\u0627\u0646\u064a",
+                                    "properties": {
+                                        "comment": "\u0626\u0644\u064a \u0627\u0645\u0631\u0646\u064a",
+                                        "num_of_times_called": 4
+                                    },
+                                    "sub": {
+                                        "\u0627\u0644\u0645\u0637\u0644\u0648\u0628 \u0648\u0627\u0644\u0645\u062d\u0630\u0648\u0641 \u0645\u0646 \u0627\u0644\u0645\u0642\u0631\u0631": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u0627\u0644\u0645\u0637\u0644\u0648\u0628 \u0648\u0627\u0644\u0645\u062d\u0630\u0648\u0641 \u0645\u0646 \u0627\u0644\u0645\u0642\u0631\u0631",
+                                            "father": "\u0644\u063a\u0629 \u0623\u062c\u0646\u0628\u064a\u0629 2",
+                                            "properties": {
+                                                "full_name": "1_2_\u0625\u0646\u0643\u0644\u064a\u0632\u064a2_\u0627\u0644\u0645\u0637\u0644\u0648\u0628_\u0648\u0627\u0644\u0645\u062d\u0630\u0648\u0641_\u0645\u0646_\u0627\u0644\u0645\u0642\u0631\u0631.PNG",
+                                                "stored_msg_id": 52,
+                                                "comment": null,
+                                                "num_of_times_called": 3,
+                                                "size": 1444822,
+                                                "date": "2021/06/15 - 22:13:42",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        }
+                                    }
+                                },
+                                "\u0645\u0628\u0627\u062f\u0626 \u062a\u0633\u0648\u064a\u0642": {
+                                    "obj_type": "folder",
+                                    "name": "\u0645\u0628\u0627\u062f\u0626 \u062a\u0633\u0648\u064a\u0642",
+                                    "father": "\u0641\u0635\u0644 \u062b\u0627\u0646\u064a",
+                                    "properties": {
+                                        "comment": "\u0648\u0647",
+                                        "num_of_times_called": 6
+                                    },
+                                    "sub": {}
+                                },
+                                "\u0645\u062d\u0627\u0633\u0628\u0629 \u0645\u0627\u0644\u064a\u0629 2": {
+                                    "obj_type": "folder",
+                                    "name": "\u0645\u062d\u0627\u0633\u0628\u0629 \u0645\u0627\u0644\u064a\u0629 2",
+                                    "father": "\u0641\u0635\u0644 \u062b\u0627\u0646\u064a",
+                                    "properties": {
+                                        "comment": "\u0637\u064a\u0628",
+                                        "num_of_times_called": 9
+                                    },
+                                    "sub": {}
+                                },
+                                "\u062b\u0642\u0627\u0641\u0629": {
+                                    "obj_type": "folder",
+                                    "name": "\u062b\u0642\u0627\u0641\u0629",
+                                    "father": "\u0641\u0635\u0644 \u062b\u0627\u0646\u064a",
+                                    "properties": {
+                                        "comment": "\u0648\u0648\u0648\u061f",
+                                        "num_of_times_called": 6
+                                    },
+                                    "sub": {
+                                        "\u062f\u0648\u0631\u0627\u0627\u062a": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u062f\u0648\u0631\u0627\u0627\u062a",
+                                            "father": "\u062b\u0642\u0627\u0641\u0629",
+                                            "properties": {
+                                                "full_name": "1_2_\u062b\u0642\u0627\u0641\u0629_\u062f\u0648\u0631\u0627\u0627\u062a.pdf",
+                                                "stored_msg_id": 96,
+                                                "comment": "\u0648\u062c\u0647\u0648 \u0643\u0644\u0645\u0629 \u0634\u0643\u0631 \u0644 \u0627\u0644\u0632\u0645\u064a\u0644\u0629 \u0628\u062a\u0648\u0644 \u064a\u062c\u0645\u0627\u0639\u0629 \u0628\u062a\u0633\u062a\u0627\u0647\u0644",
+                                                "num_of_times_called": 0,
+                                                "size": 981372,
+                                                "date": "2021/06/20 - 21:41:50",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        }
+                                    }
+                                },
+                                "\u0625\u0642\u062a\u0635\u0627\u062f \u062c\u0632\u0626\u064a": {
+                                    "obj_type": "folder",
+                                    "name": "\u0625\u0642\u062a\u0635\u0627\u062f \u062c\u0632\u0626\u064a",
+                                    "father": "\u0641\u0635\u0644 \u062b\u0627\u0646\u064a",
+                                    "properties": {
+                                        "comment": "\u0626\u0644\u064a \u0627\u0645\u0631\u0646\u064a",
+                                        "num_of_times_called": 10
+                                    },
+                                    "sub": {
+                                        "\u062f\u0648\u0631\u0627\u062a": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u062f\u0648\u0631\u0627\u062a",
+                                            "father": "\u0625\u0642\u062a\u0635\u0627\u062f \u062c\u0632\u0626\u064a",
+                                            "properties": {
+                                                "full_name": "1_2_\u0625\u0642\u062a\u0635\u0627\u062f \u062c\u0632\u0626\u064a_\u062f\u0648\u0631\u0627\u062a.pdf",
+                                                "stored_msg_id": 86,
+                                                "comment": null,
+                                                "num_of_times_called": 10,
+                                                "size": 10846991,
+                                                "date": "2021/06/16 - 14:45:52",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        },
+                                        "\u0627\u0644\u0645\u0642\u0631\u0631": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u0627\u0644\u0645\u0642\u0631\u0631",
+                                            "father": "\u0625\u0642\u062a\u0635\u0627\u062f \u062c\u0632\u0626\u064a",
+                                            "properties": {
+                                                "full_name": "1_2_\u0627\u0642\u062a\u0635\u0627\u062f \u062c\u0632\u0626\u064a - \u0627\u0644\u0645\u0642\u0631\u0631.pdf",
+                                                "stored_msg_id": 94,
+                                                "comment": null,
+                                                "num_of_times_called": 1,
+                                                "size": 9311304,
+                                                "date": "2021/06/19 - 14:05:40",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        }
+                                    }
+                                },
+                                "\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0639\u0627\u0644\u064a\u0629": {
+                                    "obj_type": "folder",
+                                    "name": "\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0639\u0627\u0644\u064a\u0629",
+                                    "father": "\u0641\u0635\u0644 \u062b\u0627\u0646\u064a",
+                                    "properties": {
+                                        "comment": "\u0637\u064a\u0628",
+                                        "num_of_times_called": 6
+                                    },
+                                    "sub": {
+                                        "\u0627\u0644\u0646\u0638\u0631\u064a \u0645\u0643\u062a\u0648\u0628 \u0643\u0627\u0645\u0644": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u0627\u0644\u0646\u0638\u0631\u064a \u0645\u0643\u062a\u0648\u0628 \u0643\u0627\u0645\u0644",
+                                            "father": "\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0639\u0627\u0644\u064a\u0629",
+                                            "properties": {
+                                                "full_name": "1#1# \u0631\u064a\u0627\u0636\u064a\u0627\u062a_\u0639\u0627\u0644\u064a\u0629#\u0627\u0644\u0646\u0638\u0631\u064a.pdf",
+                                                "stored_msg_id": 56,
+                                                "comment": null,
+                                                "num_of_times_called": 5,
+                                                "size": 522353,
+                                                "date": "2021/06/15 - 22:36:06",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        },
+                                        "\u062f\u0648\u0631\u0627\u062a \u0645\u062d\u0644\u0648\u0644\u0629": {
+                                            "obj_type": "bot_file",
+                                            "name": "\u062f\u0648\u0631\u0627\u062a \u0645\u062d\u0644\u0648\u0644\u0629",
+                                            "father": "\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0639\u0627\u0644\u064a\u0629",
+                                            "properties": {
+                                                "full_name": "1#1#\u0631\u064a\u0627\u0636\u064a\u0627\u062a_\u0639\u0627\u0644\u064a\u0629#\u062f\u0648\u0631\u0627\u062a \u0645\u062d\u0644\u0648\u0644\u0629.pdf",
+                                                "stored_msg_id": 58,
+                                                "comment": null,
+                                                "num_of_times_called": 5,
+                                                "size": 1859290,
+                                                "date": "2021/06/15 - 22:37:52",
+                                                "sender_id": 507130741,
+                                                "sender_name": "Abdoo",
+                                                "sender_username": "Abdoo_M"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "\u0633\u0646\u0629 \u062b\u0627\u0646\u064a\u0629": {
+                    "obj_type": "folder",
+                    "name": "\u0633\u0646\u0629 \u062b\u0627\u0646\u064a\u0629",
+                    "father": "\u0643\u0644\u064a\u0629 \u0627\u0644\u0625\u0642\u062a\u0635\u0627\u062f",
+                    "properties": {
+                        "comment": "\u0623\u064a \u0641\u0635\u0644\u061f",
+                        "num_of_times_called": 4
+                    },
+                    "sub": {
+                        "\u0641\u0635\u0644 \u0623\u0648\u0644": {
+                            "obj_type": "folder",
+                            "name": "\u0641\u0635\u0644 \u0623\u0648\u0644",
+                            "father": "\u0633\u0646\u0629 \u062b\u0627\u0646\u064a\u0629",
+                            "properties": {
+                                "comment": "\u0634\u0648 \u0627\u0644\u0645\u0627\u062f\u0629\u061f",
+                                "num_of_times_called": 2
+                            },
+                            "sub": {
+                                "\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0625\u0646\u062a\u0627\u062c \u0648\u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a": {
+                                    "obj_type": "folder",
+                                    "name": "\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0625\u0646\u062a\u0627\u062c \u0648\u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a",
+                                    "father": "\u0641\u0635\u0644 \u0623\u0648\u0644",
+                                    "properties": {
+                                        "comment": "\u0623\u0648\u0643",
+                                        "num_of_times_called": 0
+                                    },
+                                    "sub": {}
+                                },
+                                "\u0645\u062d\u0627\u0633\u0628\u0629 \u0634\u0631\u0643\u0627\u062a \u0623\u0634\u062e\u0627\u0635": {
+                                    "obj_type": "folder",
+                                    "name": "\u0645\u062d\u0627\u0633\u0628\u0629 \u0634\u0631\u0643\u0627\u062a \u0623\u0634\u062e\u0627\u0635",
+                                    "father": "\u0641\u0635\u0644 \u0623\u0648\u0644",
+                                    "properties": {
+                                        "comment": "\u0623\u0648\u0643",
+                                        "num_of_times_called": 0
+                                    },
+                                    "sub": {}
+                                },
+                                "\u0625\u0642\u062a\u0635\u0627\u062f \u0643\u0644\u064a": {
+                                    "obj_type": "folder",
+                                    "name": "\u0625\u0642\u062a\u0635\u0627\u062f \u0643\u0644\u064a",
+                                    "father": "\u0641\u0635\u0644 \u0623\u0648\u0644",
+                                    "properties": {
+                                        "comment": "\u0626\u0644\u064a \u0627\u0645\u0631\u0646\u064a",
+                                        "num_of_times_called": 1
+                                    },
+                                    "sub": {}
+                                },
+                                "\u0645\u0628\u0627\u062f\u0626 \u0627\u0644\u0625\u062d\u0635\u0627\u0621": {
+                                    "obj_type": "folder",
+                                    "name": "\u0645\u0628\u0627\u062f\u0626 \u0627\u0644\u0625\u062d\u0635\u0627\u0621",
+                                    "father": "\u0641\u0635\u0644 \u0623\u0648\u0644",
+                                    "properties": {
+                                        "comment": "\u0648\u0648\u0648\u061f",
+                                        "num_of_times_called": 1
+                                    },
+                                    "sub": {}
+                                },
+                                "\u0644\u063a\u0629 \u0623\u062c\u0646\u0628\u064a\u0629 3": {
+                                    "obj_type": "folder",
+                                    "name": "\u0644\u063a\u0629 \u0623\u062c\u0646\u0628\u064a\u0629 3",
+                                    "father": "\u0641\u0635\u0644 \u0623\u0648\u0644",
+                                    "properties": {
+                                        "comment": "\u0646\u0642\u064a",
+                                        "num_of_times_called": 0
+                                    },
+                                    "sub": {}
+                                },
+                                "\u0645\u0627\u0644\u064a\u0629 \u0639\u0627\u0645\u0629": {
+                                    "obj_type": "folder",
+                                    "name": "\u0645\u0627\u0644\u064a\u0629 \u0639\u0627\u0645\u0629",
+                                    "father": "\u0641\u0635\u0644 \u0623\u0648\u0644",
+                                    "properties": {
+                                        "comment": "\u0645\u0627\u0634\u064a",
+                                        "num_of_times_called": 1
+                                    },
+                                    "sub": {}
+                                }
+                            }
+                        },
+                        "\u0641\u0635\u0644 \u062b\u0627\u0646\u064a": {
+                            "obj_type": "folder",
+                            "name": "\u0641\u0635\u0644 \u062b\u0627\u0646\u064a",
+                            "father": "\u0633\u0646\u0629 \u062b\u0627\u0646\u064a\u0629",
+                            "properties": {
+                                "comment": "\u0634\u0648 \u0627\u0644\u0645\u0627\u062f\u0629\u061f",
+                                "num_of_times_called": 2
+                            },
+                            "sub": {}
+                        }
+                    }
+                },
+                "\u0633\u0646\u0629 \u062b\u0627\u0644\u062b\u0629": {
+                    "obj_type": "folder",
+                    "name": "\u0633\u0646\u0629 \u062b\u0627\u0644\u062b\u0629",
+                    "father": "\u0643\u0644\u064a\u0629 \u0627\u0644\u0625\u0642\u062a\u0635\u0627\u062f",
+                    "properties": {
+                        "comment": "\u0623\u064a \u0641\u0635\u0644\u061f",
+                        "num_of_times_called": 3
+                    },
+                    "sub": {
+                        "\u0641\u0635\u0644 \u0623\u0648\u0644": {
+                            "obj_type": "folder",
+                            "name": "\u0641\u0635\u0644 \u0623\u0648\u0644",
+                            "father": "\u0633\u0646\u0629 \u062b\u0627\u0644\u062b\u0629",
+                            "properties": {
+                                "comment": "\u0634\u0648 \u0627\u0644\u0645\u0627\u062f\u0629\u061f",
+                                "num_of_times_called": 3
+                            },
+                            "sub": {}
+                        },
+                        "\u0641\u0635\u0644 \u062b\u0627\u0646\u064a": {
+                            "obj_type": "folder",
+                            "name": "\u0641\u0635\u0644 \u062b\u0627\u0646\u064a",
+                            "father": "\u0633\u0646\u0629 \u062b\u0627\u0644\u062b\u0629",
+                            "properties": {
+                                "comment": "\u0634\u0648 \u0627\u0644\u0645\u0627\u062f\u0629\u061f",
+                                "num_of_times_called": 1
+                            },
+                            "sub": {}
+                        }
+                    }
+                },
+                "\u0633\u0646\u0629 \u0631\u0627\u0628\u0639\u0629": {
+                    "obj_type": "folder",
+                    "name": "\u0633\u0646\u0629 \u0631\u0627\u0628\u0639\u0629",
+                    "father": "\u0643\u0644\u064a\u0629 \u0627\u0644\u0625\u0642\u062a\u0635\u0627\u062f",
+                    "properties": {
+                        "comment": "\u0623\u064a \u0641\u0635\u0644\u061f",
+                        "num_of_times_called": 8
+                    },
+                    "sub": {
+                        "\u0641\u0635\u0644 \u0623\u0648\u0644": {
+                            "obj_type": "folder",
+                            "name": "\u0641\u0635\u0644 \u0623\u0648\u0644",
+                            "father": "\u0633\u0646\u0629 \u0631\u0627\u0628\u0639\u0629",
+                            "properties": {
+                                "comment": "\u0634\u0648 \u0627\u0644\u0645\u0627\u062f\u0629\u061f",
+                                "num_of_times_called": 4
+                            },
+                            "sub": {
+                                "\u0645\u0644\u0641 \u062a\u062c\u0631\u0628\u0629": {
+                                    "obj_type": "bot_file",
+                                    "name": "\u0645\u0644\u0641 \u062a\u062c\u0631\u0628\u0629",
+                                    "father": "\u0641\u0635\u0644 \u0623\u0648\u0644",
+                                    "properties": {
+                                        "full_name": "\u0645\u0644\u0641 \u0644\u062a\u062c\u0631\u0628\u0629 \u0627\u0644\u0628\u0648\u062a \ud83d\udcf1.pdf",
+                                        "stored_msg_id": 92,
+                                        "comment": "\u0634\u0643\u0631\u0627\u064b \u0644\u0644\u0632\u0645\u064a\u0644 \u0631\u0628\u064a\u0639 \ud83d\udc9a",
+                                        "num_of_times_called": 1,
+                                        "size": 140514,
+                                        "date": "2021/06/19 - 09:44:47",
+                                        "sender_id": 507130741,
+                                        "sender_name": "Abdoo",
+                                        "sender_username": "Abdoo_M"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "\u0623\u0645\u0627\u0643\u0646 \u0627\u0644\u0628\u0647\u0648 \u0648 \u0627\u0644\u0642\u0627\u0639\u0627\u062a": {
+                    "obj_type": "bot_file",
+                    "name": "\u0623\u0645\u0627\u0643\u0646 \u0627\u0644\u0628\u0647\u0648 \u0648 \u0627\u0644\u0642\u0627\u0639\u0627\u062a",
+                    "father": "\u0643\u0644\u064a\u0629 \u0627\u0644\u0625\u0642\u062a\u0635\u0627\u062f",
+                    "properties": {
+                        "full_name": "1#1#\u0627\u0644\u0628\u0647\u0648_\u0648_\u0627\u0644\u0642\u0627\u0639\u0627\u062a#\u0627\u0645\u0627\u0643\u0646_\u0627\u0644\u0628\u0647\u0648_\u0648\u0627\u0644\u0642\u0627\u0639\u0627\u062a.jpg",
+                        "stored_msg_id": 88,
+                        "comment": null,
+                        "num_of_times_called": 1,
+                        "size": 65159,
+                        "date": "2021/06/16 - 14:47:02",
+                        "sender_id": 507130741,
+                        "sender_name": "Abdoo",
+                        "sender_username": "Abdoo_M"
+                    }
+                },
+                "\u0628\u0631\u0646\u0627\u0645\u062c \u0627\u0644\u0641\u062d\u0635": {
+                    "obj_type": "bot_file",
+                    "name": "\u0628\u0631\u0646\u0627\u0645\u062c \u0627\u0644\u0641\u062d\u0635",
+                    "father": "\u0643\u0644\u064a\u0629 \u0627\u0644\u0625\u0642\u062a\u0635\u0627\u062f",
+                    "properties": {
+                        "full_name": "\u0628\u0631\u0646\u0627\u0645\u062c_\u0627\u0644\u0641\u062d\u0635_2021.jpg",
+                        "stored_msg_id": 90,
+                        "comment": null,
+                        "num_of_times_called": 1,
+                        "size": 65069,
+                        "date": "2021/06/16 - 15:27:57",
+                        "sender_id": 507130741,
+                        "sender_name": "Abdoo",
+                        "sender_username": "Abdoo_M"
+                    }
+                }
+            }
+        }
+    }
+}
